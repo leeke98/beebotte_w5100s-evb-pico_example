@@ -11,3 +11,8 @@ This is an Arduino sketch code for reading temperature and humidity data from a 
 - [PubSubClient](https://pubsubclient.knolleary.net/) - MQTT Arduino library
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An elegant and efficient JSON library for embedded systems.
 - [DHT](https://github.com/adafruit/DHT-sensor-library) - Arduino library for DHT11
+
+## Monitoring Light sensor value
+This is an Arduino sketch code for reading light sensor data from a DHT11 sensor and publishing it to the Beebotte MQTT service. More details are here. https://maker.wiznet.io/gemma/projects/monitoring-light-value-using-w5100s-evb-pico-arduino-ide%21/
+- [PubSubClient](https://pubsubclient.knolleary.net/) - MQTT Arduino library
+- [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - An elegant and efficient JSON library for embedded systems.
